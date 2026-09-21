@@ -17,7 +17,6 @@
 
 - Trabalho com gestão documental de engenharia em um projeto de infraestrutura de grande porte: administração de **Bentley ProjectWise**, automação de relatórios e validação de dados.
 - Automatizo rotinas com **Python (pandas)** e **PowerShell**, e entrego visão analítica em **Power BI**.
-- Vim de ABAP/SAP (módulo fiscal), o que me deu bagagem em regras de negócio e integridade de dados.
 - Estou migrando para **Engenharia de Dados**: ingestão, modelagem, orquestração e qualidade.
 
 ## Stack
@@ -38,15 +37,3 @@
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-## Destaques
-
-- **TCC:** análise de variáveis socioeconômicas do ENEM vs. tipo de rede escolar com regressão logística.
-- **Automação de relatórios (GRD):** pipeline em Python/pandas com validação em SQL Server.
-
-## GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=carviit&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carviit&layout=compact&langs_count=7&theme=midnight-purple" />
-</p>
